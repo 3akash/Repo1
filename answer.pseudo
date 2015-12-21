@@ -1,0 +1,24 @@
+//answer.pseudo file
+//This is file contains a commented code for
+//Generating a name passed as variable in function and a random number between 6 and 15
+//This is a syntax of .java i.e Java is used.
+/*
+void function(char name[]){
+	int random;
+	random=rand()%15;
+	while(1){
+		if(random>6&&random<15)
+		{
+			printf("%s %d",name,random);
+			break;
+		}
+		else
+			random=rand()%15;
+	}
+}
+int main(int argc, char *argv[]) {
+	function("AKASH");
+	getch();
+	return 0;
+}
+*/
